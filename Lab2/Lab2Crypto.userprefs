@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{AC033905-FB94-4EE7-90E6-EB68F39DBEDE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab2Crypto/test.txt">
+    <Files>
+      <File FileName="Lab2Crypto/Program.cs" Line="17" Column="115" />
+      <File FileName="Lab2Crypto/Input.txt" Line="9" Column="5" />
+      <File FileName="Lab2Crypto/GCDAlgorithms.cs" Line="24" Column="1" />
+      <File FileName="Lab2Crypto/test.txt" Line="1" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Lab2Crypto PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

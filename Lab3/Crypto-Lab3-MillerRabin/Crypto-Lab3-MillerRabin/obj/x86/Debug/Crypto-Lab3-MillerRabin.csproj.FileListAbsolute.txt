@@ -1,0 +1,8 @@
+/Users/alexandraneamtu/Documents/An3-sem1/crypto/Lab3/Crypto-Lab3-MillerRabin/Crypto-Lab3-MillerRabin/bin/Debug/Crypto-Lab3-MillerRabin.exe
+/Users/alexandraneamtu/Documents/An3-sem1/crypto/Lab3/Crypto-Lab3-MillerRabin/Crypto-Lab3-MillerRabin/bin/Debug/Crypto-Lab3-MillerRabin.pdb
+/Users/alexandraneamtu/Documents/An3-sem1/crypto/Lab3/Crypto-Lab3-MillerRabin/Crypto-Lab3-MillerRabin/obj/x86/Debug/Crypto-Lab3-MillerRabin.csproj.CoreCompileInputs.cache
+/Users/alexandraneamtu/Documents/An3-sem1/crypto/Lab3/Crypto-Lab3-MillerRabin/Crypto-Lab3-MillerRabin/obj/x86/Debug/Crypto-Lab3-MillerRabin.exe
+/Users/alexandraneamtu/Documents/An3-sem1/crypto/Lab3/Crypto-Lab3-MillerRabin/Crypto-Lab3-MillerRabin/obj/x86/Debug/Crypto-Lab3-MillerRabin.pdb
+/Users/alexandraneamtu/Documents/An3-sem1/crypto/Lab3/Crypto-Lab3-MillerRabin/Crypto-Lab3-MillerRabin/bin/Debug/BigMath.dll
+/Users/alexandraneamtu/Documents/An3-sem1/crypto/Lab3/Crypto-Lab3-MillerRabin/Crypto-Lab3-MillerRabin/bin/Debug/BigMath.xml
+/Users/alexandraneamtu/Documents/An3-sem1/crypto/Lab3/Crypto-Lab3-MillerRabin/Crypto-Lab3-MillerRabin/obj/x86/Debug/Crypto-Lab3-MillerRabin.csprojResolveAssemblyReference.cache

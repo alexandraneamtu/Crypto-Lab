@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{674B4512-6B24-4548-8B47-FEECD974D41D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Crypto-Lab3-MillerRabin/Program.cs">
+    <Files>
+      <File FileName="Crypto-Lab3-MillerRabin/Program.cs" Line="13" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Crypto-Lab3-MillerRabin PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
